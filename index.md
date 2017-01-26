@@ -10,7 +10,7 @@ layout: default
 	<div class="posts">
 		<article>
 			<a href="#" class="image"><img src="assets/images/img01.jpg" alt="" /></a>
-			<h3>The Lost City of the Monkey GOd: A True Story</h3>
+			<h3>The Lost City of the Monkey God: A True Story</h3>
 			<p>In 2012, author Douglas Preston joined a team of explorers searching for Ciudad Blanca (“The White City”), a legendary ruin hidden in the dense jungle of eastern Hondur...</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
