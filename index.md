@@ -9,7 +9,7 @@ layout: default
 	<div class="posts">
       {% for post in site.posts %}
     <article>
-        <a href="#" class="image"><img src="{{post.img}}" alt="" /></a>
+        <a href="#" class="image"><img src="{{post.img}}" alt="{{post.title}}" /></a>
         <h3>{{post.title}}</h3>
         <p>{{post.excerpt | strip_html | strip_newlines | truncate: 160}}</p>
 			<ul class="actions">
