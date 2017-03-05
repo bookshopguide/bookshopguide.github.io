@@ -1,9 +1,0 @@
---- 
-layout: post 
-title: Difficult Women
-author: Roxane Gay
-price: $25.00
-img: https://images-na.ssl-images-amazon.com/images/I/41KODBAfO6L.jpg
---- 
-Award-winning author and powerhouse talent Roxane Gay burst onto the scene with An Untamed Statewhich earned rave reviews and was selected as one of the best books of the year by the Washington Post, NPR, the Boston Globe, and Kirkusand her New York Times bestselling essay collection Bad Feminist (Harper Perennial). Gay returns with Difficult Women, a collection of stories of rare force and beauty, of hardscrabble lives, passionate loves, and quirky and vexed human connection.<br><br>The women in these stories live lives of privilege and of poverty, are in marriages both loving and haunted by past crimes or emotional blackmail. A pair of sisters, grown now, have been inseparable ever since they were abducted together as children, and must negotiate the marriage of one of them. A woman married to a twin pretends not to realize when her husband and his brother impersonate each other. A stripper putting herself through college fends off the advances of an overzealous customer. A black engineer moves to Upper Michigan for a job and faces the malign curiosity of her colleagues and the difficulty of leaving her past behind. From a girls fight club to a wealthy subdivision in Florida where neighbors conform, compete, and spy on each other, Gay delivers a wry, beautiful, haunting vision of modern America reminiscent of Merritt Tierce, Jamie Quatro, and Miranda July.<br>
-<br/><br/> <a href="https://www.amazon.com/Difficult-Women-Roxane-Gay/dp/0802125395%3FSubscriptionId%3DAKIAJMENML4FLKMV2CIQ%26tag%3Dpskiba1234-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0802125395"><img src="https://images-na.ssl-images-amazon.com/images/G/01/associates/remote-buy-box/buy1.gif"></a>

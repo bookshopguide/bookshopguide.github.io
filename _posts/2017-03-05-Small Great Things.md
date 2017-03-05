@@ -2,7 +2,6 @@
 layout: post 
 title: Small Great Things
 author: Jodi Picoult
-price: $28.99
 img: https://images-na.ssl-images-amazon.com/images/I/51MzOneN8rL.jpg
 --- 
 Ruth Jefferson is a labor and delivery nurse at a Connecticut hospital with more than twenty years' experience. During her shift, Ruth begins a routine checkup on a newborn, only to be told a few minutes later that she's been reassigned to another patient. The parents are white supremacists and don't want Ruth, who is African American, to touch their child. The hospital complies with their request, but the next day, the baby goes into cardiac distress while Ruth is alone in the nursery. Does she obey orders or does she intervene?<br><br>Ruth hesitates before performing CPR and, as a result, is charged with a serious crime. Kennedy McQuarrie, a white public defender, takes her case but gives unexpected advice: Kennedy insists that mentioning race in the courtroom is not a winning strategy. Conflicted by Kennedy's counsel, Ruth tries to keep life as normal as possible for her familyespecially her teenage sonas the case becomes a media sensation. As the trial moves forward, Ruth and Kennedy must gain each other's trust, and come to see that what they've been taught their whole lives about othersand themselvesmight be wrong.<br><br>With incredible empathy, intelligence, and candor, Jodi Picoult tackles race, privilege, prejudice, justice, and compassionand doesn't offer easy answers. Small Great Things is a remarkable achievement from a writer at the top of her game.

@@ -1,0 +1,8 @@
+--- 
+layout: post 
+title: Lincoln in the Bardo
+author: George Saunders
+img: https://images-na.ssl-images-amazon.com/images/I/61-1atkJmYL.jpg
+--- 
+The captivating first novel by the best-selling, National Book Award nominee George Saunders, about Abraham Lincoln and the death of his eleven year old son, Willie, at the dawn of the Civil War<br><br>On February 22, 1862, two days after his death, Willie Lincoln was laid to rest in a marble crypt in a Georgetown cemetery. That very night, shattered by grief, Abraham Lincoln arrives at the cemetery under cover of darkness and visits the crypt, alone, to spend time with his sons body. <br><br>Set over the course of that one night and populated by ghosts of the recently passed and the long dead, Lincoln in the Bardo is a thrilling exploration of death, grief, the powers of good and evil, a novel - in its form and voice - completely unlike anything you have read before. It is also, in the end, an exploration of the deeper meaning and possibilities of life, written as only George Saunders can: with humor, pathos, and grace.
+<br/><br/> <a href="https://www.amazon.com/Lincoln-Bardo-Novel-George-Saunders/dp/0812995341%3FSubscriptionId%3DAKIAJMENML4FLKMV2CIQ%26tag%3Dpskiba1234-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0812995341"><img src="https://images-na.ssl-images-amazon.com/images/G/01/associates/remote-buy-box/buy1.gif"></a>

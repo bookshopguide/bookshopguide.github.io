@@ -2,7 +2,6 @@
 layout: post 
 title: A Gentleman in Moscow
 author: Amor Towles
-price: $27.00
 img: https://images-na.ssl-images-amazon.com/images/I/51YCzUi5OJL.jpg
 --- 
 From the New York Times bestselling author of Rules of Civilitya transporting novel about a man who is ordered to spend the rest of his life inside a luxury hotel <br> <br> With his breakout debut novel, Rules of Civility, Amor Towles established himself as a master of absorbing, sophisticated fiction, bringing late 1930s Manhattan to life with splendid atmosphere and a flawless command of style. <br><br> A Gentleman in Moscow immerses us in another elegantly drawn era with the story of Count Alexander Rostov. When, in 1922, he is deemed an unrepentant aristocrat by a Bolshevik tribunal, the count is sentenced to house arrest in the Metropol, a grand hotel across the street from the Kremlin. Rostov, an indomitable man of erudition and wit, has never worked a day in his life, and must now live in an attic room while some of the most tumultuous decades in Russian history are unfolding outside the hotels doors. Unexpectedly, his reduced circumstances provide him a doorway into a much larger world of emotional discovery.<br><br> Brimming with humor, a glittering cast of characters, and one beautifully rendered scene after another, this singular novel casts a spell as it relates the counts endeavor to gain a deeper understanding of what it means to be a man of purpose.
